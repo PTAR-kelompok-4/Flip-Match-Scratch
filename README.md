@@ -60,6 +60,8 @@ setealh file di stah msaukan command seperti berikut
  
     git push origin main
     
+ kalau mashi ga ngerti cara pemakaian command2 nya bisa di liat disini https://bit.ly/LinkCommandGits
+    
 
 ## Creadit
 
