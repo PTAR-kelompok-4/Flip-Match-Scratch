@@ -62,6 +62,8 @@ setealh file di stah msaukan command seperti berikut
     
  kalau mashi ga ngerti cara pemakaian command2 nya bisa di liat disini https://bit.ly/LinkCommandGits
     
+## Link aplikasi kami 
+https://scratch.mit.edu/projects/775054827
 
 ## Creadit
 
